@@ -21,9 +21,13 @@ Here are some ideas to get you started:
 
 ###
 
+h2 {
+    border: none;
+}
+
 <h2 align="left">Hi there, 👋 I'm</h2>
 
-<!-- ### -->
+###
 
 <br clear="both">
 
