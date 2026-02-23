@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<img align="right" height="175" src="https://media.giphy.com/media/4HgwKDQhZaajneDYLc/giphy.gif"  />
+<img align="right" height="175" src="https://media.giphy.com/media/4HgwKDQhZaajneDYLc/giphy.gif](https://i.postimg.cc/Jhp4VQ9R/wired-gradient-logo-github.gif"  />
 
 ###
 
