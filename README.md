@@ -49,6 +49,14 @@ Here are some ideas to get you started:
 
 ###
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"  />
+</div>
+
+###
+
+###
+
 <p align="center"></p>
 
 ###
@@ -57,12 +65,6 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img height="562" src="https://i.postimg.cc/tRnNqf7M/juarezvaleriojr-binary-art.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"  />
 </div>
 
 ###
