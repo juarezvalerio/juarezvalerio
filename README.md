@@ -21,11 +21,13 @@ Here are some ideas to get you started:
 
 ###
 
-h2 {
-    border: none;
-}
-
+<div id="user-content-toc">
+  <ul align="left" style="list-style: none;">
+    <summary>
 <h2 align="left">Hi there, 👋 I'm</h2>
+    </summary>
+  </ul>
+</div>
 
 ###
 
@@ -37,7 +39,13 @@ h2 {
 
 <br clear="both">
 
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
 <h2 align="center">View my Online Portfolio: <br>juarezvalerio [dot] com</h2>
+    </summary>
+  </ul>
+</div>
 
 ###
 
